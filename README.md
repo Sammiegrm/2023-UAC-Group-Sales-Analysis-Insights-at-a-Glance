@@ -1,4 +1,4 @@
-# 2023-UAC-Group-Sales-Analysis-Insights-at-a-Glance
+# 2023 UAC Group Sales Analysis Insights at a Glance
 This dataset analyzes the sales analysis of the UAC GROUP of companies, showing and telling stories about insights that can further help the group grow
 <img width="943" alt="Dashboard 2" src="https://github.com/user-attachments/assets/95748bbe-a68f-43f2-9020-b61d1f8ff601" />
 
